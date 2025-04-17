@@ -1,0 +1,20 @@
+body {
+    background-color: #f7f7f7;
+    font-family: Arial, sans-serif;
+}
+.container {
+    width: 60%;
+    margin: auto;
+    padding: 40px;
+    background-color: white;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    margin-top: 80px;
+    border-radius: 10px;
+}
+h1 {
+    color: #333;
+    text-align: center;
+}
+p {
+    font-size: 18px;
+}
